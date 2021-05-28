@@ -3,3 +3,4 @@ Esse repositório é o local onde estarão guardadas e organizadas as atividades
 
 ## Atividades []()
 - [Atividade 2 - Lambda Calculus](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-2)
+- [Atividade 3 - Aquecimento](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-3)
