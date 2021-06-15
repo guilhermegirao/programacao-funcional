@@ -5,5 +5,6 @@ Esse repositório é o local onde estarão guardadas e organizadas as atividades
 ## Atividades []()
 
 - [Atividade 2 - Lambda Calculus](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-2)
-- [Atividade 3 - Aquecimento](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-3)
-- [Atividade 4 - Operações Básicas](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-4)
+- [Atividade 3 - Aquecimento](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-3/modulo-3)
+- [Atividade 3 - Operações Básicas](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-3/modulo-4)
+- [Atividade 4 - Recursão](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-4)

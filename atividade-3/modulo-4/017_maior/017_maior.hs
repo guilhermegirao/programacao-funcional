@@ -4,9 +4,9 @@ module Main where
 
 maior :: [Int] -> Int
 maior [x] = x
-maior (x:xs) = 
-      if x > rest then x
-      else rest
+maior (x:xs) 
+      | x > rest = x
+      | otherwise = rest
         where 
           rest = maior xs
 
