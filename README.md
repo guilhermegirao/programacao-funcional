@@ -12,5 +12,5 @@ Esse repositório é o local onde estarão guardadas e organizadas as atividades
 - [Atividade 5 - Zip](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-5/modulo-7)
 - [Atividade 5 - Fold](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-5/modulo-8)
 - [Atividade 5 - Strings](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-5/modulo-9)
-- [Atividade 5 - Math](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-5/modulo-10)
-- [Atividade 5 - Ordenação](https://github.com/guilhermegirao/programacao-funcional/tree/main/atividade-5/modulo-11)
+<!-- - [Atividade ? - Math](https://github.com/guilhermegirao/programacao-funcional/tree/main/outros/modulo-10)
+- [Atividade ? - Ordenação](https://github.com/guilhermegirao/programacao-funcional/tree/main/outros/modulo-11) -->
